@@ -1,6 +1,5 @@
-public main ()
-
-{
-line 1
-
-}
+line1
+line1
+line1
+line1
+line1
